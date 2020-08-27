@@ -1,12 +1,28 @@
-### Hi Folks 👋
+## Hi 👋 I am Praveen! 
 
-I am Frontend Software Engineer from Mumbai, India. 
+I am a Frontend Engineer lives in Mumbai, India. I enjoy working with Javscript. I Mostly developed things using React, now trying to explore VueJS.
 
-- 🔭 I’m currently working on React Project
 - 🌱 I’m currently learning Vue and TypeScript 
-- 👯 I’m looking to collaborate on anything related to Javscript
-- 🤔 I’m looking for help with NaN
-- 💬 Ask me about anything
+- 👯 I’m looking to collaborate on anything related to Javscript.
+- 😊 Willing to contribute in opensource development projects.
+- 💬 Ask me about anything related to Web Development, Automation and Career Guidance. 
 - 📫 How to reach me: https://twitter.com/saraogipraveen
-- ⚡ Fun fact: None
+- ⚡ Fun fact: Windows > Mac > Linux for development 
 
+<br/>
+
+<b>Tech Stack</b>
+
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
+
+
+<br>
+<br/>
+<br>
+
+![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=saraogipraveen&theme=gruvbox&show_icons=true)
