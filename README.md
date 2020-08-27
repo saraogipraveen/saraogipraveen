@@ -1,5 +1,6 @@
 ### Hi Folks 👋
 
+I am Frontend Software Engineer from Mumbai, India. 
 
 - 🔭 I’m currently working on React Project
 - 🌱 I’m currently learning Vue and TypeScript 
