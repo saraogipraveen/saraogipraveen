@@ -25,4 +25,5 @@ I am a Software Engineer at Paytm lives in Mumbai, India. I enjoy working with J
 <br/>
 <br>
 
-![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=saraogipraveen&theme=gruvbox&show_icons=true)
+
+![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=saraogipraveen&count_private=true&theme=cobalt&show_icons=true)
