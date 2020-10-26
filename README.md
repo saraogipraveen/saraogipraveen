@@ -3,7 +3,7 @@
 I am a Software Engineer at Paytm lives in Mumbai, India. I enjoy working with Javscript. I Mostly developed things using React, now trying to explore VueJS.
 
 - 🌱 I’m currently learning Vue and TypeScript 
-- 👯 I’m looking to collaborate on anything related to Javscript.
+- 👯 I’m looking to collaborate on anything related to Javascript.
 - 😊 Willing to contribute in opensource development projects.
 - 💬 Ask me about anything related to Web Development, Automation and Career Guidance. 
 - 📫 How to reach me: https://twitter.com/saraogipraveen
