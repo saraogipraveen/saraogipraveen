@@ -1,8 +1,7 @@
 ## Hi 👋 I am Praveen! 
 
-I am a Software Engineer at Paytm lives in Mumbai, India. I enjoy working with Javscript. I Mostly developed things using React, now exploring VueJS.
+I am a Software Engineer at Paytm lives in Mumbai, India. I enjoy working with Javscript. I Mostly developed things using Vue, React and JS.
 
-- 🌱 I’m currently learning Vue and TypeScript 
 - 👯 I’m looking to collaborate on anything related to Javascript.
 - 😊 Willing to contribute in opensource development projects.
 - 💬 Ask me about anything related to Web Development, Automation and Career Guidance. 
