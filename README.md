@@ -6,7 +6,7 @@ I am a Software Engineer at Paytm lives in Mumbai, India. I enjoy working with J
 - 😊 Willing to contribute in opensource development projects.
 - 💬 Ask me about anything related to Web Development, Automation and Career Guidance. 
 - 📫 How to reach me: https://twitter.com/saraogipraveen
-- ⚡ Fun fact: Windows > Mac > Linux for development 
+- ⚡ Fun fact: Mac > Linux > Windows for development 
 
 <br/>
 
