@@ -1,6 +1,6 @@
 ## Hi 👋 I am Praveen! 
 
-I am a Software Engineer at Paytm lives in Mumbai, India. I enjoy working with Javscript. I Mostly developed things using Vue, React and JS.
+I am a Software Engineer at Playment lives in Mumbai, India. I enjoy working with Javscript. I Mostly developed things using React, Vue and JS.
 
 - 👯 I’m looking to collaborate on anything related to Javascript.
 - 😊 Willing to contribute in opensource development projects.
