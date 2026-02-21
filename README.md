@@ -7,7 +7,6 @@ I'm a **Frontend Software Engineer** currently based in the **UK** 🇬🇧, spe
 - 💻 **Frontend Development** — React, Vue, TypeScript, Next.js
 - 🤖 **AI Integration** — Building agents and tools with LLMs (OpenClaw, LangChain)
 - 🌍 **Currently** — Navigating the UK tech scene & visa journey
-- 💪 **Side Quest** — Fitness, V-shape body goals, and staying at 57kg
 
 ### Tech Stack
 
@@ -32,7 +31,6 @@ I'm a **Frontend Software Engineer** currently based in the **UK** 🇬🇧, spe
 - ⚡ Mac > Linux > Windows for development
 - 🎯 Building an AI assistant (Tez) to automate my life
 - ☕ Coffee-powered coding sessions
-- 🏋️ Currently in "love handle shred mode"
 
 ---
 
