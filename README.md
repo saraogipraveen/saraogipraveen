@@ -1,28 +1,39 @@
-## Hi 👋 I am Praveen! 
+## Hi 👋 I'm Praveen!
 
-I am a Software Engineer at Playment lives in Mumbai, India. I enjoy working with Javscript. I Mostly developed things using React, Vue and JS.
+I'm a **Frontend Software Engineer** currently based in the **UK** 🇬🇧, specializing in modern JavaScript frameworks and AI-powered applications.
 
-- 👯 I’m looking to collaborate on anything related to Javascript.
-- 😊 Willing to contribute in opensource development projects.
-- 💬 Ask me about anything related to Web Development, Automation and Career Guidance. 
-- 📫 How to reach me: https://twitter.com/saraogipraveen
-- ⚡ Fun fact: Mac > Linux > Windows for development 
+### What I Do
 
-<br/>
+- 💻 **Frontend Development** — React, Vue, TypeScript, Next.js
+- 🤖 **AI Integration** — Building agents and tools with LLMs (OpenClaw, LangChain)
+- 🌍 **Currently** — Navigating the UK tech scene & visa journey
+- 💪 **Side Quest** — Fitness, V-shape body goals, and staying at 57kg
 
-<b>Tech Stack</b>
+### Tech Stack
 
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" width="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="36" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="36" />
+</p>
 
+### Connect With Me
 
-<br>
-<br/>
-<br>
+- 🐦 [Twitter/X](https://twitter.com/saraogipraveen)
+- 💼 [LinkedIn](https://linkedin.com/in/saraogipraveen)
+- 📧 saraogipraveenuk@gmail.com
 
+### Fun Facts
 
-![Praveen's github stats](https://github-readme-stats.vercel.app/api?username=saraogipraveen&count_private=true&theme=cobalt&show_icons=true)
+- ⚡ Mac > Linux > Windows for development
+- 🎯 Building an AI assistant (Tez) to automate my life
+- ☕ Coffee-powered coding sessions
+- 🏋️ Currently in "love handle shred mode"
+
+---
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
