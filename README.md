@@ -24,7 +24,7 @@ I'm a **Frontend Software Engineer** currently based in the **UK** 🇬🇧, spe
 ### Connect With Me
 
 - 🐦 [Twitter/X](https://twitter.com/saraogipraveen)
-- 💼 [LinkedIn](https://linkedin.com/in/saraogipraveen)
+- 💼 [LinkedIn](https://www.linkedin.com/in/praveensaraogi/)
 - 📧 saraogipraveenuk@gmail.com
 
 ### Fun Facts
